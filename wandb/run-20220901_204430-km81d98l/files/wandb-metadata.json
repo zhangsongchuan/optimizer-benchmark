@@ -1,0 +1,23 @@
+{
+    "os": "Linux-5.14.0-1051-oem-x86_64-with-glibc2.17",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-09-01T12:44:33.261970",
+    "startedAt": "2022-09-01T12:44:30.906161",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060 Ti",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/ifeherva/optimizer-benchmark.git",
+        "commit": "a740b9a8ad209789797c2729f4604fda4ae5e193"
+    },
+    "email": "2678632668@qq.com",
+    "root": "/home/zhang/optimizer-benchmark",
+    "host": "zhang-YangTianP880",
+    "username": "zhang",
+    "executable": "/home/zhang/anaconda3/envs/adamw/bin/python"
+}
